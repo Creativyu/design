@@ -1,0 +1,32 @@
+.blocks-sec {
+  padding: 25px;
+}
+
+.row.blocks-row {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.blocks-col {
+  padding: 15px;
+}
+
+.blocks-heading {
+  font-size: 30px;
+  font-weight: 200;
+}
+
+.blocks-link:hover {
+  text-decoration: none;
+}
+
+.blocks-sec {
+  background-color: #e9ecef;
+}
+
+.blocks-img {
+  padding-top: 10px;
+  min-width: 75%;
+  max-width: 75%;
+}
+
